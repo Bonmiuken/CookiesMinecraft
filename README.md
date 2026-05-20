@@ -1,6 +1,4 @@
 
-CookiesMinecraft                 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/daeca61d-d3ef-4f3a-8f11-0dd4e607803a" alt="Minecraft Logo" width="100"/>
 </p>
