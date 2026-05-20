@@ -1,9 +1,8 @@
-=============================================================
+
                   CookiesMinecraft V1.0                      
-=============================================================
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AgeOfAIPartners/Minecraft-Crack/main/logo.png" alt="Minecraft Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/daeca61d-d3ef-4f3a-8f11-0dd4e607803a" alt="Minecraft Logo" width="200"/>
 </p>
 New Free Minecraft DLL Crack Tool (GDK) for Windows 10/11
 
