@@ -6,7 +6,7 @@ New Free Minecraft DLL Crack Tool (GDK) for Windows 10/11
 
 🔓 Unlock Minecraft Bedrock Edition for FREE on Windows 10/11!
 
-A tool to unlock the full version of Minecraft Bedrock Edition (GDK). Only works with Xbox app installations (NOT Microsoft Store!).
+A method to unlock the full version of Minecraft Bedrock Edition (GDK). Only works with Xbox app installations (NOT Microsoft Store!).
 
 How to do it:
 Insert DLL - CookiesMinecraft.dll (If using Levilauncher)
