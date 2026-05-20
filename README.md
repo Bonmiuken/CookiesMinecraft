@@ -13,4 +13,6 @@ Insert DLL - CookiesMinecraft.dll (If using Levilauncher)
 
 Insert DLL - CookiesMinecraft.dll and winmm.dll , dlllist.txt(If using the official Minecraft Launcher)
 
+Insert DLL - CookiesMinecraft.dll , winmm.dll , BetterRenderDragon.dll , and dlllist.txt(If using the official Minecraft Launcher with BRD)
+
 Note: This project is for educational purposes only. Please support the developer by purchasing the game.
