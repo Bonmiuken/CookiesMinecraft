@@ -12,7 +12,6 @@ Insert DLL - CookiesMinecraft.dll and vcruntime140_1.dll (If using the official 
 Note: This project is for educational purposes only. Please support the developer by purchasing the game.
 
 ============= English =============
-Credit: Bonmiuken (://github.com)
 
 ======= How to use ========
 
@@ -35,7 +34,6 @@ Credit: Bonmiuken (://github.com)
 
 
 ============= Tiếng Việt =============
-Người thực hiện: Bonmiuken (://github.com)
 
 ======= Hướng dẫn sử dụng ========
 
@@ -58,7 +56,6 @@ Người thực hiện: Bonmiuken (://github.com)
 
 
 ============= 中文 (简体) =============
-贡献者: Bonmiuken (://github.com)
 
 ======= 使用教程 ========
 
@@ -81,7 +78,6 @@ Người thực hiện: Bonmiuken (://github.com)
 
 
 ============= हिंदी =============
-श्रेय: Bonmiuken (://github.com)
 
 ======= उपयोग कैसे करें ========
 
