@@ -1,8 +1,8 @@
-
+=
                   CookiesMinecraft V1.0                      
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/daeca61d-d3ef-4f3a-8f11-0dd4e607803a" alt="Minecraft Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/daeca61d-d3ef-4f3a-8f11-0dd4e607803a" alt="Minecraft Logo" width="100"/>
 </p>
 New Free Minecraft DLL Crack Tool (GDK) for Windows 10/11
 
@@ -18,6 +18,7 @@ Insert DLL - CookiesMinecraft.dll and vcruntime140_1.dll (If using the official 
 Note: This project is for educational purposes only. Please support the developer by purchasing the game.
 
 ============= English =============
+
 Credit: Bonmiuken 
 
 ======= How to use ========
@@ -41,6 +42,7 @@ Credit: Bonmiuken
 
 
 ============= Tiếng Việt =============
+
 Người thực hiện: Bonmiuken 
 
 ======= Hướng dẫn sử dụng ========
@@ -64,6 +66,7 @@ Người thực hiện: Bonmiuken
 
 
 ============= 中文 (简体) =============
+
 贡献者: Bonmiuken 
 
 ======= 使用教程 ========
@@ -87,6 +90,7 @@ Người thực hiện: Bonmiuken
 
 
 ============= हिंदी =============
+
 श्रेय: Bonmiuken 
 
 ======= उपयोग कैसे करें ========
