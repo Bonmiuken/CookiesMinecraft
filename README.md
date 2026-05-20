@@ -1,5 +1,10 @@
-<img width="92" height="92" alt="download" src="https://github.com/user-attachments/assets/1ba3141d-6a85-4742-8b94-65b46b4f4ada" />
+=============================================================
+                  CookiesMinecraft V1.0                      
+=============================================================
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgeOfAIPartners/Minecraft-Crack/main/logo.png" alt="Minecraft Logo" width="200"/>
+</p>
 New Free Minecraft DLL Crack Tool (GDK) for Windows 10/11
 
 🔓 Unlock Minecraft Bedrock Edition for FREE on Windows 10/11!
@@ -14,6 +19,7 @@ Insert DLL - CookiesMinecraft.dll and vcruntime140_1.dll (If using the official 
 Note: This project is for educational purposes only. Please support the developer by purchasing the game.
 
 ============= English =============
+Credit: Bonmiuken 
 
 ======= How to use ========
 
@@ -36,6 +42,7 @@ Note: This project is for educational purposes only. Please support the develope
 
 
 ============= Tiếng Việt =============
+Người thực hiện: Bonmiuken 
 
 ======= Hướng dẫn sử dụng ========
 
@@ -58,6 +65,7 @@ Note: This project is for educational purposes only. Please support the develope
 
 
 ============= 中文 (简体) =============
+贡献者: Bonmiuken 
 
 ======= 使用教程 ========
 
@@ -80,6 +88,7 @@ Note: This project is for educational purposes only. Please support the develope
 
 
 ============= हिंदी =============
+श्रेय: Bonmiuken 
 
 ======= उपयोग कैसे करें ========
 
@@ -94,3 +103,8 @@ Note: This project is for educational purposes only. Please support the develope
 - अपने Minecraft Bedrock गेम डायरेक्टरी (फ़ोल्डर) पर जाएं।
 - "mods" नाम का एक नया फ़ोल्डर बनाएं (यदि पहले से नहीं है)।
 - "vcruntime140_1.dll" और "CookiesMinecraft.dll" दोनों फ़ाइलों को उस फ़ोल्डर में कॉपी करें。हो गया!
+
+================= अस्वीकरण =================
+- यह मोड केवल शैक्षिक और अनुसंधान उद्देश्यों के लिए है।
+- क्रैक्ड (cracked) संस्करणों के साथ इस मोड का उपयोग करने से होने वाले किसी भी गेम क्रैश, डेटा हानि या अकाउंट बैन के लिए डेवलपर ज़िम्मेदार नहीं है।
+- यदि आपको गेम पसंद है, तो कृपया रचनाकारों का समर्थन करने के लिए Microsoft Store से आधिकारिक संस्करण खरीदें।
