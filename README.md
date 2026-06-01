@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/daeca61d-d3ef-4f3a-8f11-0dd4e607803a" alt="Minecraft Logo" width="100"/>
+  <img width="92" height="92" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/19d47f58-3641-4a3e-a400-3a3c3a0b6d17" />
 </p>
 New Free Minecraft Crack Tool for Windows 10/11
 
