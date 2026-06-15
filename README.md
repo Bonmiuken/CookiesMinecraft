@@ -1,4 +1,5 @@
-
+> [!IMPORTANT]
+> The final version of CookiesMinecraft is V3.8.5, after which CookiesMinecraft will integrate into CakeLauncher and the project will be archived.
 <p align="center">
   <img width="92" height="92" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/19d47f58-3641-4a3e-a400-3a3c3a0b6d17" />
 </p>
