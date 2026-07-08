@@ -1,6 +1,5 @@
 > [!IMPORTANT]
-> The final version of CookiesMinecraft is V3.6, after which CookiesMinecraft will integrate into [CookiesLauncher](https://github.com/Bonmiuken/CookiesLauncher) and the project will be archived.
-
+> The final version of CookiesMinecraft is V3.6, after which CookiesMinecraft will continue to be developed in [CookiesMinecraftUnlocker (GUI)](github.com/bonmiuken/CookiesMinecraftUnlock)
 ## CookiesMinecraft
 <p align="left">
   <img width="92" height="92" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/19d47f58-3641-4a3e-a400-3a3c3a0b6d17" />
