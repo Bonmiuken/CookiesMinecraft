@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> The final version of CookiesMinecraft is V3.6, after which CookiesMinecraft will continue to be developed in [CikiBedrock(GUI)](github.com/bonmiuken/CikiBedrock)
+> The final version of CookiesMinecraft is V3.6, after which CookiesMinecraft will continue to be developed in [CakiBedrockUnlocker(GUI)](github.com/bonmiuken/CakiBedrockUnlocker)
 ## CookiesMinecraft
-<p align="left">
+<p align="center">
   <img width="92" height="92" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/19d47f58-3641-4a3e-a400-3a3c3a0b6d17" />
 </p>
 An application that can unlock the Minecraft Bedrock (GDK) version using DLL files.
